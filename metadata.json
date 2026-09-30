@@ -1,0 +1,6 @@
+{
+  "name": "TechCare",
+  "description": "Modern IT & device service management SaaS connecting customers, technicians, and administrators with real-time tracking, automated workflows, and AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
